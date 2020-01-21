@@ -1,11 +1,12 @@
 # Welcome to Tracery!
 
-## A text-expansion library
+## How to use this
 
-There are many new examples of Tracery [in use](http://www.crystalcodepalace.com/tracery.html "Examples")
-I also have an exciting new *interactive* [tutorial](http://www.crystalcodepalace.com/traceryTut.html "Tutorial")
+Go [here to galaxykate's tracery](https://github.com/galaxykate/tracery) to understand how to use & modify Tracery
 
-I strongly recommend using the [minified library](https://github.com/galaxykate/tracery/blob/master/js/tracery.min.js "Minified")
+Go [here to @HeyDesignerBot](https://twitter.com/HeyDesignerBot) to see the end output of this on Twitter.com
+
+or go [here to cheapbotsdonequick.com](https://cheapbotsdonequick.com/source/DesignAdviceBot) to see how to design a Tracery bot of your own!
 
 ### Write grammar objects, get generative stories
 
@@ -29,6 +30,20 @@ Azra traveled with her pet coyote. Azra was never wistful, for the coyote was al
 Yuuma traveled with her pet owl. Yuuma was never wistful, for the owl was always too courteous.
 Azra traveled with her pet zebra. Azra was never impassioned, for the zebra was always too astute.
 ```
+
+An example of a tweet from [@HeyDesignerBot](https://twitter.com/HeyDesignerBot) using this grammar
+
+
+
+
+## A text-expansion library
+
+There are many new examples of Tracery [in use](http://www.crystalcodepalace.com/tracery.html "Examples")
+I also have an exciting new *interactive* [tutorial](http://www.crystalcodepalace.com/traceryTut.html "Tutorial")
+
+I strongly recommend using the [minified library](https://github.com/galaxykate/tracery/blob/master/js/tracery.min.js "Minified")
+
+
 
 ### How to use Tracery as a broswer library
 
