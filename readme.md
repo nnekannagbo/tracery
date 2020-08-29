@@ -1,10 +1,12 @@
-# Welcome to Tracery!
+# MindfulMeme Designer Bot 🤖
 
-## How to use this
+A completely serious Bot that gives design advice that's dipped and steeped in a satirical, designer stew —Yum! MMD Bot is powered by Tracery. 
+
+## How to use Tracery
 
 Go [here to galaxykate's tracery](https://github.com/galaxykate/tracery) to understand how to use & modify Tracery
 
-Go [here to @HeyDesignerBot](https://twitter.com/HeyDesignerBot) to see the end output of this on Twitter.com
+Go [here to @HeyDesignerBot](https://twitter.com/HeyDesignerBot) to see the end output of Tracery on Twitter.com
 
 or go [here to cheapbotsdonequick.com](https://cheapbotsdonequick.com/source/DesignAdviceBot) to see how to design a Tracery bot of your own!
 
