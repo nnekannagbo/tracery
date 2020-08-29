@@ -39,4 +39,4 @@ Azra traveled with her pet zebra. Azra was never impassioned, for the zebra was 
 
 An example of a tweet from [@HeyDesignerBot](https://twitter.com/HeyDesignerBot) using this grammar
 
-![@HeyDesignerBot](https://github.com/nnekannagbo/tracery/blob/master/mmdbot_tweet.png?raw=true)
+![@HeyDesignerBot](https://github.com/nnekannagbo/tracery/blob/master/mmdbot_tweet2.png?raw=true)
