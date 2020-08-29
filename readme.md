@@ -4,6 +4,8 @@ A completely serious Bot that gives design advice that's dipped and steeped in a
 
 MMD Bot is powered by [Tracery](https://github.com/galaxykate/tracery). 
 
+![MindfulMeme DesignerBot](https://github.com/nnekannagbo/tracery/blob/master/mmdbot.png?raw=true)
+
 ## How to use Tracery
 
 Go [here to galaxykate's tracery](https://github.com/galaxykate/tracery) to understand how to use & modify Tracery
@@ -37,4 +39,4 @@ Azra traveled with her pet zebra. Azra was never impassioned, for the zebra was 
 
 An example of a tweet from [@HeyDesignerBot](https://twitter.com/HeyDesignerBot) using this grammar
 
-![@HeyDesignerBot](https://github.com/nnekannagbo/nnekannagbo.github.io/blob/master/images/Mindful%20Designer%20Bot%20Tweet.png?raw=true)
+![@HeyDesignerBot](https://github.com/nnekannagbo/tracery/blob/master/mmdbot_tweet.png?raw=true)
