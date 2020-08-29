@@ -1,6 +1,7 @@
 # MindfulMeme Designer Bot 🤖
 
-A completely serious Bot that gives design advice that's dipped and steeped in a satirical, designer stew —Yum! 
+A completely serious Bot that gives design advice that's dipped and steeped in a satirical, designer stew —Yum!
+
 MMD Bot is powered by [Tracery](https://github.com/galaxykate/tracery). 
 
 ## How to use Tracery
